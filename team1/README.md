@@ -6,5 +6,4 @@ Team 1 Instructions
 -------------------
 
 This subdirectory contains a file with a list of colors.  It should be in
-alphabetical order.  Your job is to fix it.
-
+alphabetical order and contain each color only once.  Your job is to fix it.
