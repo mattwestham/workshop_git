@@ -1,0 +1,14 @@
+
+Red
+Blue
+Yellow
+Orange
+Gold
+Black
+Indigo
+Violet
+Puce
+Beige
+Maroon
+Mauve
+
