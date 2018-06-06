@@ -19,3 +19,6 @@ This Repository
 This repository is used during a Git training workshop as a starting
 point to learn collaboration and continue to advance your git skills.
 
+You will use this repository during the workshop to perform some simple
+git tasks and colaborate with the rest of the class.
+
