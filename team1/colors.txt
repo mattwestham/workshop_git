@@ -1,14 +1,15 @@
 
-Red
+Beige
+Black
 Blue
-Yellow
 Orange
 Gold
-Black
 Indigo
 Violet
 Puce
-Beige
+Red
 Maroon
 Mauve
+Yellow
+Claret
 
